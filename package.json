@@ -1,0 +1,15 @@
+{
+  "name": "express-validator",
+  "version": "1.0.0",
+  "description": "how to do server side validations using express-validator",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Amandeep Singh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-validator": "^6.14.2"
+  }
+}

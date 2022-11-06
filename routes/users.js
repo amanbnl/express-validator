@@ -3,7 +3,7 @@ const router = require('express').Router()
 //importing validations
 const validations = require('../validations/index')
 //importing userControllers
-const userControllers = require('../controller/users')
+const userControllers = require('../controllers/users')
 
 /**
  * 
